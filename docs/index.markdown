@@ -19,7 +19,7 @@ layout: default
 詳しくは[こちらの connpass のページ](https://jppgb.connpass.com/event/363360/)に記載の内容をご確認ください。  
 
 # 📒イベント概要
-<u><b>J</b>></u>apan <u><b>P</b></u>ower <u><b>P</b></u>latform <u><b>G</b></u>ame <u><b>B</b></u>uilders (JPPGB) では、本来業務アプリを作成するはずのPower Platformを用いてゲームを作成してみよう！ということに取り組んでいるコミュニティです。  
+<u><b>J</b></u>apan <u><b>P</b></u>ower <u><b>P</b></u>latform <u><b>G</b></u>ame <u><b>B</b></u>uilders (JPPGB) では、本来業務アプリを作成するはずのPower Platformを用いてゲームを作成してみよう！ということに取り組んでいるコミュニティです。  
 
 今回のイベントでは、皆さんお待ちかね(？)のゲーム作成コンテストを開催します！:party_popper:  
 
