@@ -19,7 +19,7 @@ layout: default
 詳しくは[こちらの connpass のページ](https://jppgb.connpass.com/event/363360/)に記載の内容をご確認ください。  
 
 # 📒イベント概要
-<u>**J**</u>apan <u>**P**</u>ower <u>**P**</u>latform <u>**G**</u>ame <u>**B**</u>uilders (JPPGB) では、本来業務アプリを作成するはずのPower Platformを用いてゲームを作成してみよう！ということに取り組んでいるコミュニティです。  
+<u><b>J</b>></u>apan <u><b>P</b></u>ower <u><b>P</b></u>latform <u><b>G</b></u>ame <u><b>B</b></u>uilders (JPPGB) では、本来業務アプリを作成するはずのPower Platformを用いてゲームを作成してみよう！ということに取り組んでいるコミュニティです。  
 
 今回のイベントでは、皆さんお待ちかね(？)のゲーム作成コンテストを開催します！:party_popper:  
 
@@ -71,7 +71,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       <td style="text-align:left">ヘビー級</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/01.01.あんぱんださん/あんぱんだ_1_hit_and_blow.pbix">作品リンク Ver-1.0</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/01.あんぱんださん/あんぱんだ_1_hit_and_blow.pbix">作品リンク Ver-1.0</a>
         <br>(pbix File)<br>
       </td>
     </tr>
@@ -88,9 +88,9 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       <td style="text-align:left">ライト級</td>
       <td style="text-align:left">突如現れるワニやモグラに対して、瞬時に反応するゲーム<br>プレイヤーは“押すべき瞬間”を見極め、クリック or タップ<br>シンプルな操作なので、ゲームが苦手な方でも楽しんでいただけます<br></td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/02.DAIさん/DAISUKE_KOBAYASHI_DAI_CROCODILEPANIC_JPPGB#2.zip">作品リンク Ver-1.0</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/02.DAIさん/DAISUKE_KOBAYASHI_DAI_CROCODILEPANIC_JPPGB%232.zip">作品リンク Ver-1.0</a>
         <br>(Package File)<br>
-        <a href="https://github.com/koruneko/JPPGB-GameContest-1/blob/main/02.DAIさん/DAISUKE_KOBAYASHI_DAI_CROCODILEPANIC_JPPGB#2.pdf">資料リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/02.DAIさん/DAISUKE_KOBAYASHI_DAI_CROCODILEPANIC_JPPGB%232.pdf">資料リンク</a>
       </td>
     </tr>
   </tbody>
