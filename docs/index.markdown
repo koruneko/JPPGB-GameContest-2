@@ -51,7 +51,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
 <table>
   <thead>
     <tr>
-      <th width="200" style="text-align:left">名前</th>
+      <th width="130" style="text-align:left">名前</th>
       <th width="65" style="text-align:left">エントリー枠</th>
       <th style="text-align:left">アピールポイント</th>
       <th width="120" style="text-align:left">作品リンク</th>
@@ -66,7 +66,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
           </span>
         </a>
         <br>
-        <img src="あんぱんだ_1_あんぱんだ.png" width="150">
+        <img src="あんぱんだ_1_あんぱんだ.png" width="120">
       </td>
       <td style="text-align:left">ヘビー級</td>
       <td style="text-align:left"></td>
@@ -83,14 +83,31 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
           </span>
         </a>
         <br>
-        <img src="DAISUKE_KOBAYASHI_DAI_ICON_JPPGB.png" width="150">
+        <img src="DAISUKE_KOBAYASHI_DAI_ICON_JPPGB.png" width="120">
       </td>
       <td style="text-align:left">ライト級</td>
-      <td style="text-align:left">突如現れるワニやモグラに対して、瞬時に反応するゲーム<br>プレイヤーは“押すべき瞬間”を見極め、クリック or タップ<br>シンプルな操作なので、ゲームが苦手な方でも楽しんでいただけます<br></td>
+      <td style="text-align:left">シンプルな操作なので、ゲームが苦手な方でも楽しんでいただけます。初心者作品なので想定外の不備や不思議な挙動もあるかもしれませんが、それも含めて「遊び心」楽しんでもらえたらうれしいです。</td>
       <td style="text-align:left">
         <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/02.DAIさん/DAISUKE_KOBAYASHI_DAI_CROCODILEPANIC_JPPGB%232.zip">作品リンク Ver-1.0</a>
         <br>(Package File)<br>
         <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/02.DAIさん/DAISUKE_KOBAYASHI_DAI_CROCODILEPANIC_JPPGB%232.pdf">資料リンク</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <a href="https://x.com/dai_keiba_73">
+          <span style="font-size: 125%">
+            <strong>dai365 さん</strong>
+          </span>
+        </a>
+        <br>
+        <img src="dai_365_kimarite.png" width="120">
+      </td>
+      <td style="text-align:left">ライト級</td>
+      <td style="text-align:left">KIMARITE!<br>相撲を題材にした本場所シミュレーション。番付が動き、取組が進み、プレイヤーの“応援”で展開も変わる観戦×戦略ゲーム。見どころ<br><br>本場所の再現度<br>勝ち星や「Power」で番付が変動。必須カードや終盤の大一番など実相撲らしい組み合わせを反映。<br>“荒れ度”で番狂わせ<br>日ごとの乱数幅で展開に起伏。まれに「大荒れの日」も発生。<br>応援札で介入<br>取組ごとに片方へ一時ブーストを付与。推しを後押しできる。情報表示<br><br>優勝争いパネル（11日目〜）：生存者・GB差を一覧表示<br>注目カード強調：直接対決や番狂わせ期待にバッジ＆スコア<br>結果演出：砂埃エフェクト＋決まり手表示で臨場感<br>履歴パネル：力士名タップで今場所成績＆直接対戦を即確認データの厚み<br><br>レジェンド力士データを多数収録<br>決まり手ほぼ網羅：頻出技〜超レアまで、発生頻度つき遊びの広がり<br><br>年間シミュレーション：MVPや通算記録を集計<br>**（おまけ）**隠しコマンドも…あるかも？ 😎<br></td>
+      <td style="text-align:left">
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/03.dai365さん/dai_365_Kimarite!.msapp">作品リンク Ver-1.0</a>
+        <br>(msapp File)<br>
       </td>
     </tr>
   </tbody>
