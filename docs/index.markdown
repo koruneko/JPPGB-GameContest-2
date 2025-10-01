@@ -110,6 +110,23 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
         <br>(msapp File)<br>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">
+        <a href="https://x.com/nanashi77420">
+          <span style="font-size: 125%">
+            <strong>ななし さん</strong>
+          </span>
+        </a>
+        <br>
+        <img src="ななし_774_プロフィール.png" width="120">
+      </td>
+      <td style="text-align:left">ヘビー級</td>
+      <td style="text-align:left">普通にありそうな架空のレトロゲーム作りました。作っておきながら苦手なジャンルですので、どなたかHARDモード全クリチャレンジお願いします！<br></td>
+      <td style="text-align:left">
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/04.nanashi77420さん/ななし_774_yoshyoshpanic.zip">作品リンク Ver-1.0</a>
+        <br>(Solution File)<br>
+      </td>
+    </tr>
   </tbody>
 </table>
 
