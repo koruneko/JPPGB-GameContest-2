@@ -21,7 +21,7 @@ layout: default
 # 📒イベント概要
 <u><b>J</b></u>apan <u><b>P</b></u>ower <u><b>P</b></u>latform <u><b>G</b></u>ame <u><b>B</b></u>uilders (JPPGB) では、本来業務アプリを作成するはずのPower Platformを用いてゲームを作成してみよう！ということに取り組んでいるコミュニティです。  
 
-今回のイベントでは、皆さんお待ちかね(？)のゲーム作成コンテストを開催します！:party_popper:  
+今回のイベントでは、皆さんお待ちかね(？)のゲーム作成コンテストを開催します！🎉  
 
 Power Platformで開発されたゲームであればOKです！  
 Power Apps, Power Automate, Power BI, Power Pages, Copilot Studio...サービスの制限はありません。  
