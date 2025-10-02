@@ -125,6 +125,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       <td style="text-align:left">
         <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/04.nanashi77420さん/ななし_774_yoshyoshpanic.zip">作品リンク Ver-1.0</a>
         <br>(Solution File)<br>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/04.nanashi77420さん/ななし_774_インストカード.pdf">資料リンク</a>
       </td>
     </tr>
   </tbody>
