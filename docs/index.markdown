@@ -69,7 +69,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
         <img src="あんぱんだ_1_あんぱんだ.png" width="120">
       </td>
       <td style="text-align:left">ヘビー級</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">「Power BI でゲームを作れますか？」と ChatGPT に聞いたら冷たくあしらわれたので、負けん気でヒット＆ブローゲームを作成してみました。制約はいろいろありますが、とりあえず遊べます。</td>
       <td style="text-align:left">
         <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/01.あんぱんださん/あんぱんだ_1_hit_and_blow.pbix">作品リンク Ver-1.0</a>
         <br>(pbix File)<br>
