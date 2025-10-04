@@ -88,7 +88,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       <td style="text-align:left">ライト級</td>
       <td style="text-align:left">シンプルな操作なので、ゲームが苦手な方でも楽しんでいただけます。初心者作品なので想定外の不備や不思議な挙動もあるかもしれませんが、それも含めて「遊び心」楽しんでもらえたらうれしいです。</td>
       <td style="text-align:left">
-        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/02.DAIさん/DAISUKE_KOBAYASHI_DAI_CROCODILEPANIC_JPPGB%232.zip">作品リンク Ver-1.0</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/02.DAIさん/DAISUKE_KOBAYASHI_DAI_CROCODILEPANIC_JPPGB.zip">作品リンク Ver-1.0</a>
         <br>(Package File)<br>
         <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/02.DAIさん/DAISUKE_KOBAYASHI_DAI_CROCODILEPANIC_JPPGB%232.pdf">資料リンク</a>
       </td>
@@ -126,6 +126,41 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
         <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/04.nanashi77420さん/ななし_774_yoshyoshpanic.zip">作品リンク Ver-1.0</a>
         <br>(Solution File)<br>
         <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/04.nanashi77420さん/ななし_774_インストカード.pdf">資料リンク</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <a href="https://x.com/youseibubu">
+          <span style="font-size: 125%">
+            <strong>ヨウセイ さん</strong>
+          </span>
+        </a>
+        <br>
+        <img src="ヨウセイさん.png" width="120">
+      </td>
+      <td style="text-align:left">ライト級</td>
+      <td style="text-align:left">懐かしのLSI電子ゲームのオマージュ的ゲームです。朝帰りしてしまったぴーたを登って登ってぱわ代に会わせてあげよう！セーブ機能があるので何度も挑戦できるよ！ハイスコアを目指して、レアエンディングを見よう！</td>
+      <td style="text-align:left">
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/05.ヨウセイさん/西村_陽生_クライミングぴーた！_20251004083905.zip">作品リンク Ver-1.0</a>
+        <br>(Package File)<br>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/05.ヨウセイさん/西村_陽生_クライミング ぴーた！ JPPGBゲームコンテスト＃2.pdf">資料リンク</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <a href="https://x.com/meccha__eeyan">
+          <span style="font-size: 125%">
+            <strong>みのる さん</strong>
+          </span>
+        </a>
+        <br>
+        <img src="矢木_実_Title3.png" width="120">
+      </td>
+      <td style="text-align:left">ライト級</td>
+      <td style="text-align:left">シンプルな操作なので、ゲームが苦手な方でも楽しんでいただけます。初心者作品なので想定外の不備や不思議な挙動もあるかもしれませんが、それも含めて「遊び心」楽しんでもらえたらうれしいです。</td>
+      <td style="text-align:left">
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/06.みのるさん/矢木_実_がんばれハム子.msapp">作品リンク Ver-1.0</a>
+        <br>(msapp File)<br>
       </td>
     </tr>
   </tbody>
