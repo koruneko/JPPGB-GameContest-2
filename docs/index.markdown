@@ -46,6 +46,21 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
 [Power Platform (Power Apps, Power Automate) のお試し環境を準備しよう(手順書)](https://qiita.com/nayoshik/items/0890e1261b6b40b69c15)  
 [Power Platform 試用環境の取得方法(動画)](https://www.youtube.com/watch?v=B1ZH306oZHA&list=PL7N3d4aME9uzrktdMSHC8mI64blLFge6g)  
 
+# 🎫作品のインポート方法
+公開されている作品は作品によってファイル形式がまちまちです。  
+作品リンクの下にファイル形式を記載していますので、それぞれの形式にあったインポート方法を実施してください。  
+
+## Solution File
+[ソリューションのインポート](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/import-update-export-solutions?WT.mc_id=DX-MVP-5005281)
+
+## msapp File
+[キャンバス アプリ を 1 つのアプリ ファイルとしてエクスポートおよびインポートする](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/export-import-single-app?WT.mc_id=DX-MVP-5005281)
+
+## Package File
+[パッケージとしてキャンバス アプリをエクスポート/インポートする](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/export-import-app-package?WT.mc_id=DX-MVP-5005281)
+
+## pbix File
+[Power BI サンプルとは - サンプルの .pbix ファイルを使用する](https://learn.microsoft.com/ja-jp/power-bi/create-reports/sample-datasets?WT.mc_id=DX-MVP-5005281#use-a-sample-pbix-file)
 
 # ✨エントリー作品一覧
 <table>
@@ -154,10 +169,10 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
           </span>
         </a>
         <br>
-        <img src="矢木_実_Title3.png" width="120">
+        <img src="みのるさん.jpg" width="120">
       </td>
       <td style="text-align:left">ライト級</td>
-      <td style="text-align:left">うちのハム子を主人公にゲームにしました。<br>猫にいじめられないように時間内にえさを全部回収しましょう！<br>全てのモードクリア目指してがんばりましょー！</td>
+      <td style="text-align:left">うちのハム子を主人公にゲームにしました。<br>猫にいじめられないように時間内にえさを全部回収しましょう！<br>全てのモードクリア目指してがんばりましょー！<br><br>※プレーはスマホ、タブレット限定です。</td>
       <td style="text-align:left">
         <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/06.みのるさん/矢木_実_がんばれハム子.msapp">作品リンク Ver-1.0</a>
         <br>(msapp File)<br>
