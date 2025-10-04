@@ -157,7 +157,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
         <img src="矢木_実_Title3.png" width="120">
       </td>
       <td style="text-align:left">ライト級</td>
-      <td style="text-align:left">シンプルな操作なので、ゲームが苦手な方でも楽しんでいただけます。初心者作品なので想定外の不備や不思議な挙動もあるかもしれませんが、それも含めて「遊び心」楽しんでもらえたらうれしいです。</td>
+      <td style="text-align:left">うちのハム子を主人公にゲームにしました。<br>猫にいじめられないように時間内にえさを全部回収しましょう！<br>全てのモードクリア目指してがんばりましょー！</td>
       <td style="text-align:left">
         <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/06.みのるさん/矢木_実_がんばれハム子.msapp">作品リンク Ver-1.0</a>
         <br>(msapp File)<br>
