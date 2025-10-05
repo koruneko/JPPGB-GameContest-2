@@ -178,6 +178,23 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
         <br>(msapp File)<br>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">
+        <a href="https://x.com/koruneko32767">
+          <span style="font-size: 125%">
+            <strong>コルネ</strong>
+          </span>
+        </a>
+        <br>
+        <img src="コルネ.png" width="120">
+      </td>
+      <td style="text-align:left">運営枠</td>
+      <td style="text-align:left">Copilot Studio でもゲームを作成できるんだぞ！ということで TRPG をプレーできるエージェントを作成してみました。<br>行動によっては責任あるAI によってブロックされることがありますので、良識ある行動を取ってください。</td>
+      <td style="text-align:left">
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/90.コルネ/KORUNE_TRPGMaster_1_0_0_1.zip">作品リンク Ver-1.0</a>
+        <br>(Solution File)<br>
+      </td>
+    </tr>
   </tbody>
 </table>
 
