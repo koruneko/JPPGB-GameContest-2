@@ -180,6 +180,24 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
+        <a href="https://x.com/yumuers">
+          <span style="font-size: 125%">
+            <strong>湧夢（ユーム） さん</strong>
+          </span>
+        </a>
+        <br>
+        <img src="Yumu_Hatakeyama_自転車棒人間.png" width="120">
+      </td>
+      <td style="text-align:left">ライト級</td>
+      <td style="text-align:left">ガラケー時代によく遊んでいたゲームをPower Apps で再現しました。操作がタップのみなので、コツさえ掴んでいただければ、すぐに慣れると思います。隠されたステージもあるので出現させてゲームクリアを目指してください。懐かしさを感じながら、遊んでいただければ幸いです。</td>
+      <td style="text-align:left">
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/07.湧夢(ユーム)さん/Yumu_Hatakeyama_BicycleRunGame_20251006140206.zip">作品リンク Ver-1.0</a>
+        <br>(Package File)<br>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/07.湧夢(ユーム)さん/Yumu_Hatakeyama_【JPPGB】ゲームコンテスト＃2_湧夢.pdff">資料リンク</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
         <a href="https://x.com/koruneko32767">
           <span style="font-size: 125%">
             <strong>コルネ</strong>
