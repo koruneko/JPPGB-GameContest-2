@@ -193,7 +193,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       <td style="text-align:left">
         <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/07.湧夢(ユーム)さん/Yumu_Hatakeyama_BicycleRunGame_20251006140206.zip">作品リンク Ver-1.0</a>
         <br>(Package File)<br>
-        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/07.湧夢(ユーム)さん/Yumu_Hatakeyama_【JPPGB】ゲームコンテスト＃2_湧夢.pdff">資料リンク</a>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/07.湧夢(ユーム)さん/Yumu_Hatakeyama_【JPPGB】ゲームコンテスト＃2_湧夢.pdf">資料リンク</a>
       </td>
     </tr>
     <tr>
