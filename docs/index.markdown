@@ -212,6 +212,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       <td style="text-align:left">
         <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/90.コルネ/KORUNE_TRPGMaster_1_0_0_1.zip">作品リンク Ver-1.0</a>
         <br>(Solution File)<br>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/90.コルネ/TRPGマスター.pdf">資料リンク</a>
       </td>
     </tr>
   </tbody>
