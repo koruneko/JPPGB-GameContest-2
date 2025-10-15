@@ -177,6 +177,7 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
       <td style="text-align:left">
         <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/06.みのるさん/矢木_実_がんばれハム子.msapp">作品リンク Ver-1.0</a>
         <br>(msapp File)<br>
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/06.みのるさん/みのる___251018JPPGB%232.pptx">資料リンク</a>
       </td>
     </tr>
     <tr>
