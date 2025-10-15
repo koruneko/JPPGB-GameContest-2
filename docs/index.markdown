@@ -199,6 +199,23 @@ Power Platformでのゲーム開発を行っている方はもちろん、これ
     </tr>
     <tr>
       <td style="text-align:left">
+        <a href="https://x.com/MMishima_3">
+          <span style="font-size: 125%">
+            <strong>Mishima さん</strong>
+          </span>
+        </a>
+        <br>
+        <img src="Masahiro_Mishima_アイコン画像.jpg" width="120">
+      </td>
+      <td style="text-align:left">ヘビー級</td>
+      <td style="text-align:left">Power Apps で2D対戦アクションゲームを作成してみました。ロボットを操縦する8名のキャラが戦います。<br>操作はマウスか画面タッチで行いますので難しいかもしれませんが、ぜひトライをしてみてください。<br>キャラクターデザインは Power Platform をそれぞれ元にしています。<br><br>※操作方法はステージ選択画面をご参考ください。スマートフォンでのプレイがオススメです。</td>
+      <td style="text-align:left">
+        <a href="https://github.com/koruneko/JPPGB-GameContest-2/blob/main/08.MasahiroMishimaさん/Masahiro_Mishima_UltimateBattleStageVer1.0_20251014223329.zip">作品リンク Ver-1.0</a>
+        <br>(Package File)<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
         <a href="https://x.com/koruneko32767">
           <span style="font-size: 125%">
             <strong>コルネ</strong>
